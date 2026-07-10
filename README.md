@@ -45,6 +45,13 @@ Criar uma presença digital profissional para a pizzaria, transmitindo credibili
 ✔ Publicado
 
 ---
+## 🌐 Acesse o Projeto
+
+O site está disponível online através do link abaixo:
+
+🔗 **(https://avenida-pizzaria.vercel.app/)**
+
+---
 
 ## 👨‍💻 Desenvolvedor
 
